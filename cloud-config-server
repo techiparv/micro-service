@@ -16,4 +16,4 @@ microservice:
   service2:
     endpoints:
       endpoint:
-        uri: http://SERVICE2/detail/userName  
+        uri: http://SERVICE2/detail/userName/userID  
